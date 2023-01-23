@@ -1,0 +1,15 @@
+canvas{
+    box-shadow: 10px 10px 10px cyan;
+    border-radius: 20;
+    border: inset blue 5px;
+}
+a{
+    float: right;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
